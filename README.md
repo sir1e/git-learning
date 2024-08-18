@@ -35,3 +35,8 @@ I may not answer immediately, I can be busy, but maybe we can play one day.
 That's all. Cya, sigmas.
 
 ![](https://media1.tenor.com/m/58JYPZHgrg0AAAAd/sigma-patrick-bateman.gif)
+
+---
+
+## Hey! 
+My name is Vlad Korolenko. I really enjoyed this course. I learned many things about git!
