@@ -13,6 +13,12 @@ After completing the course on git commands, I've learnt a lot of commands that 
 
 ---
 
+## Hi!
+
+When I finished this course I understood many Git features. I've discovered a lot of git commands and I think that it will help me in the future. Also I've got to know how to use GitHub and I find it very useful and interesting. I want to improve my skills and hope that in the future I would be able to use them all!
+
+---
+
 ## Wassup!
 
 I'm Biliakov Artem, CHnU student on my second year. And this is a message for the first lab on web-programming. Git is kinda cool, it's very functional and versatile. Overall I've liked learning more about it. And I think I'll use it at full potential someday.
