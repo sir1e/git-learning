@@ -2,13 +2,19 @@
 
 ---
 
+## Hi there 🫡
+
+I`m Kuruliak Eduard. My emotions after taking this course are quite mixed. You definitely need to know this, but still, the commands in the console are not very convenient. It is easier and faster to use the IDE functionality
+
 ## Hi!
+
 I am Artem Karachevtsev.
 Greetings to all!
 
 ---
 
 ## Hello!
+
 After completing the course on git commands, I've learnt a lot of commands that I didn't even know existed before: rebase, checkout, options of push, pull, and fetch. So this course was really useful, and I enjoyed it, even though it took a lot of time. Actually, all commands are useful, so, I think, sooner or later I'll use them all
 
 ---
