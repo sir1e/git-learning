@@ -40,3 +40,14 @@ That's all. Cya, sigmas.
 
 ## Hey! 
 My name is Vlad Korolenko. I really enjoyed this course. I learned many things about git!
+
+---
+
+## Howdy.
+
+Git is definition of source safety.
+If you have very skillful approaches with git reset --hard, then git reflog will calm your nerves (probably).
+I also suggest you to listen to my music i write from time to time : https://www.tumblr.com/justeno
+Welp, have a gday... or night.
+
+---
