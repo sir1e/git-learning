@@ -51,3 +51,8 @@ I also suggest you to listen to my music i write from time to time : https://www
 Welp, have a gday... or night.
 
 ---
+## Hi there.
+
+It was quite interesting course, it was worth to complete it and get this essentials of knowing git and Github. Hope further courses would be the same iteresting or even more.
+Yee body!
+---
