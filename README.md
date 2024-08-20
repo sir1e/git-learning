@@ -2,6 +2,12 @@
 
 ---
 
+## Yo!
+
+After taking the suggested Git course, I learned how to create and merge branches. I also learned the difference between 'cherry-pick' and 'rebase' commands. With a great interactive display of Git's work, the material has become much more accessible and easy to understand. In general, I liked getting new knowledge that will definitely come in handy.
+
+---
+
 ## Hi there 🫡
 
 I`m Kuruliak Eduard. My emotions after taking this course are quite mixed. You definitely need to know this, but still, the commands in the console are not very convenient. It is easier and faster to use the IDE functionality
