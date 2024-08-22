@@ -65,3 +65,6 @@ Yee body!
 ## Hello.
 I am Arsenii. The course is great!
 ---
+## Hi
+My name is Maks, I really enjoyed git, while learning it, I learned a lot for myself!
+---
