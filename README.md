@@ -70,3 +70,7 @@ My name is Maks, I really enjoyed git, while learning it, I learned a lot for my
 ---
 ## Hello everyone.
 My name is Anton. The course was nice. I found a lot of useful information about Git.
+---
+## Hello everyone! (=^ ◡ ^=) 
+
+I'm Katia and although I've struggled, i like working with git!
