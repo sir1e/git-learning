@@ -70,3 +70,7 @@ My name is Maks, I really enjoyed git, while learning it, I learned a lot for my
 ---
 ## Hello everyone.
 My name is Anton. The course was nice. I found a lot of useful information about Git.
+
+---
+##Hi 
+My name is Danylo. My impression is positive, due to the fact that Git has so much functionality that can be studied for years and used in practice. I will use the work from the branch so that I don't mess up the main code when I want to add something new.
