@@ -79,3 +79,9 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 ## Hello everyone!
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
+
+---
+
+## Hi
+
+Im Mary and i try to do this(not first attempt)
