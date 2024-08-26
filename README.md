@@ -86,6 +86,17 @@ I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=)
 
 I am Anton. I am dealing with this course. I love beer. And programming
 ---
+
+## Hello!
+
+I am Anton. I am dealing with this course. I love beer. And programming
+
+---
+
+## Hi
+
+Im Mary and i try to do this(not first attempt)
+
 ## Hi!
 My name is Oleksandr. In this course I learned a lot of interesting and useful things about Git.
 ---
