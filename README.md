@@ -87,11 +87,6 @@ I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=)
 ## Hello!
 
 I am Anton. I am dealing with this course. I love beer. And programming
----
-
-## Hello!
-
-I am Anton. I am dealing with this course. I love beer. And programming
 
 ---
 
