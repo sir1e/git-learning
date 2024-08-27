@@ -97,9 +97,7 @@ I am Anton. I am dealing with this course. I love beer. And programming
 
 ## Hi
 
-Я Мері, і я намагаюся це зробити (не з першої спроби)
-
-
+Im Mary and i try to do this(not first attempt)
 
 ---
 
@@ -119,7 +117,7 @@ I learned a lot of information about Git functions!
 
 ---
 ## Привіт!
-Мене звучить Олександр. На цьому курсі я бачу багато цікавого та корисного пр Git.!
+I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
 ---
 
 
