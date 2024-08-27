@@ -6,6 +6,8 @@
 
 After taking the suggested Git course, I learned how to create and merge branches. I also learned the difference between 'cherry-pick' and 'rebase' commands. With a great interactive display of Git's work, the material has become much more accessible and easy to understand. In general, I liked getting new knowledge that will definitely come in handy.
 
+TASK 5 for LAb Nazar Frazovir.
+
 ---
 
 ## Hi there 🫡
@@ -95,8 +97,30 @@ I am Anton. I am dealing with this course. I love beer. And programming
 
 ## Hi
 
-Im Mary and i try to do this(not first attempt)
+Я Мері, і я намагаюся це зробити (не з першої спроби)
 
-## Hi!
-My name is Oleksandr. In this course I learned a lot of interesting and useful things about Git.
+
+
 ---
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Hrushko Maksym</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student</h3>
+<p>I wanted to express my sincere gratitude for the Git testing experience. The challenges were both engaging and informative, and I particularly appreciated the way they helped me understand the practical applications of Git. It was like solving a quiz that deepened my understanding of version control.
+
+Thanks to these tests, I feel much more confident in my ability to use Git effectively in my future projects.
+
+#Thank you again for your excellent teaching.</p>
+
+
+
+Greeting from 243(5) to everyone!
+I learned a lot of information about Git functions!
+
+---
+## Привіт!
+Мене звучить Олександр. На цьому курсі я бачу багато цікавого та корисного пр Git.!
+---
+
+
+
