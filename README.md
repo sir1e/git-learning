@@ -2,6 +2,12 @@
 
 ---
 
+## Hi!
+
+I'm Milash Artur.
+
+---
+
 ## Yo!
 
 After taking the suggested Git course, I learned how to create and merge branches. I also learned the difference between 'cherry-pick' and 'rebase' commands. With a great interactive display of Git's work, the material has become much more accessible and easy to understand. In general, I liked getting new knowledge that will definitely come in handy.
@@ -111,9 +117,22 @@ Greeting from 243(5) to everyone!
 I learned a lot of information about Git functions!
 
 ---
+
 ## Привіт!
 I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
 ---
 
+=======
+
+##Hello Its me Mario!
+I really enjoyed this course and took away a lot of useful information
 
 
+
+## Hello 
+I'm Vasya
+
+
+
+Hi there
+At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
