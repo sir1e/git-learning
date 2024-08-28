@@ -120,3 +120,5 @@ I really enjoyed this course and took away a lot of useful information
 I'm Vasya
 
 
+Hi there
+At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
