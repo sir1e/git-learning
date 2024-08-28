@@ -136,3 +136,6 @@ I'm Vasya
 
 Hi there
 At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
+
+## Hi there!
+This course on learning git commands is very simple and allows you to understand the basic principles of their use, so it's perfect even for those who don't know anything about it at all. That's why it's highly recomended for those who interested in learning git That's why it's highly recomended for those who's interested in learning the basics of git. 
