@@ -88,7 +88,8 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
 
-=======
+---
+
 ## Hello!
 
 I am Anton. I am dealing with this course. I love beer. And programming
@@ -117,6 +118,12 @@ I learned a lot of information about Git functions!
 
 ---
 
+## Привіт!
+I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
+---
+
+=======
+
 ##Hello Its me Mario!
 I really enjoyed this course and took away a lot of useful information
 
@@ -124,6 +131,7 @@ I really enjoyed this course and took away a lot of useful information
 
 ## Hello 
 I'm Vasya
+
 
 
 Hi there
