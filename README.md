@@ -1,4 +1,4 @@
-# Web-programming. Learning git.
+﻿# Web-programming. Learning git.
 
 ---
 
@@ -139,3 +139,7 @@ At first it was slightly hard, but than it became very exiting to learn new feat
 
 ## Hi there!
 This course on learning git commands is very simple and allows you to understand the basic principles of their use, so it's perfect even for those who don't know anything about it at all. That's why it's highly recomended for those who interested in learning git That's why it's highly recomended for those who's interested in learning the basics of git. 
+
+##Greetings!
+
+It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make this commit
