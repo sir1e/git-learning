@@ -148,4 +148,8 @@ It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make thi
 
 My name is Sophia and I really like this course!!
 
+## Hello
+
+My name is Kirill and I would like to learn git
+
 ---
