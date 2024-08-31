@@ -143,3 +143,9 @@ This course on learning git commands is very simple and allows you to understand
 ##Greetings!
 
 It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make this commit
+
+## Hello
+
+My name is Sophia and I really like this course!!
+
+---
