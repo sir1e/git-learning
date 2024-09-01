@@ -153,3 +153,7 @@ My name is Sophia and I really like this course!!
 My name is Kirill and I would like to learn git
 
 ---
+
+## Hello everyone!
+
+My name is Andrew! I love my university very much and I love drinking beer even more!
