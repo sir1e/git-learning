@@ -157,3 +157,7 @@ My name is Kirill and I would like to learn git
 ## Hello everyone!
 
 My name is Andrew! I love my university very much and I love drinking beer even more!
+
+## Hi!
+
+I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
