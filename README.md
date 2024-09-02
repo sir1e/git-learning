@@ -87,6 +87,11 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 ## Hello everyone!
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
+Feature
+---
+## Hello everyone! 
+My name is Volodymyr. This cource was great. I learned a lot about Git.
+=======
 
 ---
 
