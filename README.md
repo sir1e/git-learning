@@ -1,4 +1,10 @@
-# Web-programming. Learning git.
+﻿# Web-programming. Learning git.
+
+---
+
+## Hi!
+
+I'm Milash Artur.
 
 ---
 
@@ -81,8 +87,14 @@ My name is Danylo. My impression is positive, due to the fact that Git has so mu
 ## Hello everyone!
 
 I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
-
+Feature
+---
+## Hello everyone! 
+My name is Volodymyr. This cource was great. I learned a lot about Git.
 =======
+
+---
+
 ## Hello!
 
 I am Anton. I am dealing with this course. I love beer. And programming
@@ -110,7 +122,55 @@ Greeting from 243(5) to everyone!
 I learned a lot of information about Git functions!
 
 ---
+
 Hi everyone!
 I'm Nastya<3
 It was quite difficult for me, because I had some problems while doing the pull request:(
 Anyway, I learned a lot of new things about git and its commands!
+
+
+## Привіт!
+I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
+---
+
+=======
+
+##Hello Its me Mario!
+I really enjoyed this course and took away a lot of useful information
+
+
+
+## Hello 
+I'm Vasya
+
+
+
+Hi there
+At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
+
+## Hi there!
+This course on learning git commands is very simple and allows you to understand the basic principles of their use, so it's perfect even for those who don't know anything about it at all. That's why it's highly recomended for those who interested in learning git That's why it's highly recomended for those who's interested in learning the basics of git. 
+
+##Greetings!
+
+It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make this commit
+
+## Hello
+
+My name is Sophia and I really like this course!!
+
+## Hello
+
+My name is Kirill and I would like to learn git
+
+---
+
+## Hello everyone!
+
+My name is Andrew! I love my university very much and I love drinking beer even more!
+
+## Hi!
+
+I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
+ main
+>>>>>>> main
