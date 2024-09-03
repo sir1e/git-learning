@@ -1,4 +1,6 @@
-﻿# Web-programming. Learning git.
+## Hello everyone!!!!
+
+# Web-programming. Learning git.
 
 ---
 
@@ -91,7 +93,6 @@ Feature
 ---
 ## Hello everyone! 
 My name is Volodymyr. This cource was great. I learned a lot about Git.
-=======
 
 ---
 
@@ -133,17 +134,11 @@ Anyway, I learned a lot of new things about git and its commands!
 I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
 ---
 
-=======
-
 ##Hello Its me Mario!
 I really enjoyed this course and took away a lot of useful information
 
-
-
 ## Hello 
 I'm Vasya
-
-
 
 Hi there
 At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
@@ -172,5 +167,7 @@ My name is Andrew! I love my university very much and I love drinking beer even 
 ## Hi!
 
 I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
- main
->>>>>>> main
+
+## Hi!
+
+My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
