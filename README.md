@@ -109,4 +109,8 @@ Thanks to these tests, I feel much more confident in my ability to use Git effec
 Greeting from 243(5) to everyone!
 I learned a lot of information about Git functions!
 
-
+---
+Hi everyone!
+I'm Nastya<3
+It was quite difficult for me, because I had some problems while doing the pull request:(
+Anyway, I learned a lot of new things about git and its commands!
