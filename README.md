@@ -166,4 +166,7 @@ My name is Andrew! I love my university very much and I love drinking beer even 
 ## Hi!
 
 I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
- main
+
+## Hi!
+
+My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
