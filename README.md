@@ -178,6 +178,7 @@ I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
 ## Hi!
 
 My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
+=======
  
 ## Hello!
 
@@ -187,3 +188,6 @@ I'm Yulia. Thank you for very interesting material and the opportunity to learn 
 ## Hello there!
 
 - Gene.. I, Vova Dudko, am thrilled an estatic to learn web. Long journey ahead awaits, let's not keep it waiting for long.
+=========
+## Hi!
+I love web-technologies!
