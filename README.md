@@ -199,3 +199,7 @@ To be honest, i worked with git beforem but i've never used something more than 
 ## Ayo! I'm Maksym Hanushchak
 
 I really liked this course, because now i understand git instead of pretending to. (*-*)
+
+## My name is...
+
+David and I really enjoy this course, I mean REALLY!
