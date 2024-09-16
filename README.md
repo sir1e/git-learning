@@ -4,6 +4,10 @@
 
 ---
 
+## HEYYY DUUUUDES
+
+Orobets Olezha is here and i'm glad to tell you that this course is cool, try and check it yourself.
+
 ## Hi-everyone!
 
 ## Hi!
