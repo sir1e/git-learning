@@ -1,12 +1,6 @@
-﻿# Web-programming. Learning git.
-
 ## Hello everyone!!!!
 
----
-
-## HEYOOO
-
-I'm Oleg Orobets, and i'm so excited about this course, i've known around 40% but that was cool to find new information about git and working with git. but i'd prefer to work with git in IDE.
+# Web-programming. Learning git.
 
 ---
 
