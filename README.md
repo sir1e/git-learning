@@ -232,3 +232,7 @@ David and I really enjoy this course, I mean REALLY!
 ## Hello everyone!
 
 I am Bohdan Marher, and I`m liked this course web-technologies!
+
+## Hi!
+
+I'm Andrushchak Yevhen and I'm glad I started learning web programming ;)
