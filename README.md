@@ -3,6 +3,10 @@
 # Web-programming. Learning git.
 
 ---
+## Hi!
+
+I'm Horinyuk Dmytro
+---
 
 ## HEYYY DUUUUDES
 
