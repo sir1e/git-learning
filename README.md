@@ -3,6 +3,22 @@
 # Web-programming. Learning git.
 
 ---
+## Hi!
+
+I'm Horinyuk Dmytro
+---
+
+## HEYYY DUUUUDES
+
+Orobets Olezha is here and i'm glad to tell you that this course is cool, try and check it yourself.
+
+## Hi-everyone!
+
+## Hi!
+
+Hello, I'm Kostiantyn Smozhevskykh. The course was great, I plan to use all the skills I learned!
+
+---
 
 ## Hi!
 
@@ -39,7 +55,6 @@ After completing the course on git commands, I've learnt a lot of commands that 
 
 I'm Koka Maxim I got a lot of useful material and insights that will help me in my future projects.
 
-
 ---
 
 ## Hi!
@@ -61,7 +76,8 @@ That's all. Cya, sigmas.
 
 ---
 
-## Hey! 
+## Hey!
+
 My name is Vlad Korolenko. I really enjoyed this course. I learned many things about git!
 
 ---
@@ -74,31 +90,42 @@ I also suggest you to listen to my music i write from time to time : https://www
 Welp, have a gday... or night.
 
 ---
+
 ## Hi there.
 
 It was quite interesting course, it was worth to complete it and get this essentials of knowing git and Github. Hope further courses would be the same iteresting or even more.
 Yee body!
+
 ---
+
 ## Hello.
-I am Arsenii. The course is great!
----
+
+## I am Arsenii. The course is great!
+
 ## Hi
-My name is Maks, I really enjoyed git, while learning it, I learned a lot for myself!
----
+
+## My name is Maks, I really enjoyed git, while learning it, I learned a lot for myself!
+
 ## Hello everyone.
+
 My name is Anton. The course was nice. I found a lot of useful information about Git.
 
 ---
-##Hi 
+
+##Hi
 My name is Danylo. My impression is positive, due to the fact that Git has so much functionality that can be studied for years and used in practice. I will use the work from the branch so that I don't mess up the main code when I want to add something new.
+
 ---
 
 ## Hello everyone!
 
-I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=) 
+I'm Katia and although I've struggled, i like working with git! (=^ ◡ ^=)
 Feature
+
 ---
-## Hello everyone! 
+
+## Hello everyone!
+
 My name is Volodymyr. This cource was great. I learned a lot about Git.
 
 ---
@@ -124,8 +151,6 @@ Thanks to these tests, I feel much more confident in my ability to use Git effec
 
 #Thank you again for your excellent teaching.</p>
 
-
-
 Greeting from 243(5) to everyone!
 I learned a lot of information about Git functions!
 
@@ -136,22 +161,23 @@ I'm Nastya<3
 It was quite difficult for me, because I had some problems while doing the pull request:(
 Anyway, I learned a lot of new things about git and its commands!
 
-
 ## Привіт!
-I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
----
+
+## I'm Oleksandr. In course I learned a lot of interesting and useful things about Git.
 
 ##Hello Its me Mario!
 I really enjoyed this course and took away a lot of useful information
 
-## Hello 
+## Hello
+
 I'm Vasya
 
 Hi there
 At first it was slightly hard, but than it became very exiting to learn new features about Git. Courses were great! I did not have any problems with understanding what to do. Thanks for such great opportunity to learn smth new in this way
 
 ## Hi there!
-This course on learning git commands is very simple and allows you to understand the basic principles of their use, so it's perfect even for those who don't know anything about it at all. That's why it's highly recomended for those who interested in learning git That's why it's highly recomended for those who's interested in learning the basics of git. 
+
+This course on learning git commands is very simple and allows you to understand the basic principles of their use, so it's perfect even for those who don't know anything about it at all. That's why it's highly recomended for those who interested in learning git That's why it's highly recomended for those who's interested in learning the basics of git.
 
 ##Greetings!
 
@@ -176,7 +202,6 @@ My name is Andrew! I love my university very much and I love drinking beer even 
 I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
 
 ## Hi!
-
 My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
 
 ## Hello
@@ -184,3 +209,41 @@ My name is Vadim and I really enjoyed working with Git. It's a really user-frien
 My name is Ivan and I really like this course!!
 =======
 
+=======
+# My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
+
+## Hello!
+
+I'm Yulia. Thank you for very interesting material and the opportunity to learn something new. I think I can use it in my future job. Thank you!
+
+---
+
+## Hello there!
+
+- # Gene.. I, Vova Dudko, am thrilled an estatic to learn web. Long journey ahead awaits, let's not keep it waiting for long.
+
+## Hi!
+
+I love web-technologies!
+
+## Feedback about the Git course (Anureva Katerina)
+
+# To be honest, i worked with git beforem but i've never used something more than push because i worked with VSCode and didn't need more honestly. So this course made me really get so much new information about Git which i'm sure i'll use in a future. And also i always wanted to make this course but always 'didn't have time', so now i have one more achivment
+
+## Ayo! I'm Maksym Hanushchak
+
+I really liked this course, because now i understand git instead of pretending to. (_-_)
+
+## My name is...
+
+David and I really enjoy this course, I mean REALLY!
+
+=========
+
+## Hello everyone!
+
+I am Bohdan Marher, and I`m liked this course web-technologies!
+
+## Hi!
+
+I'm Andrushchak Yevhen and I'm glad I started learning web programming ;)
